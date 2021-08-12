@@ -9,7 +9,7 @@ MSE 450 (Real-time Embedded Control Systems) project. Completed with Syed Salman
 ## Demo
 ![gif](Demo/demo.gif)
 
-##Article 
+## Article
 https://alzaibkarovalia.medium.com/flappy-bird-on-tiva-c-microcontroller-simulation-based-project-3e11703052f
 
 
